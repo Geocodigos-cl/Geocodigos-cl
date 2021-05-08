@@ -63,7 +63,7 @@ Puedes enviarnos email a geocodigos.cl@gmail.com o puedes entrar a nuestro Slack
 - :construction:
 ---
 
-## :warning: *GNU General Public License v2.0 - Copyright (C)*
+### :warning: *GNU General Public License v2.0 - Copyright (C)*
 
 <sup>Todos los scripts que publicaremos por nuestra cuenta, fueron desarrollados adoptando la licencia de GNU v2.0<sup>
 
