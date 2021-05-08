@@ -19,7 +19,7 @@ Uno de nuestros mayores deseos es que los Geo-Adictos no solo hagan *click* en p
 - [Python](https://www.python.org/) y su visulizador mas famoso [Anaconda](https://www.anaconda.com/).
 - [Linux](https://es.wikipedia.org/wiki/GNU/Linux) y su sistema operativo (sabor) más famoso [Ubuntu](https://ubuntu.com/).
 
-<sub><sup><sub><sup>*Estas son solo recomendaciones, lo que no implica que el software de pago no sea de muy alta calidad.<sub><sup><sub><sup>
+<sub><sup>*Estas son solo recomendaciones, lo que no implica que el software de pago no sea de muy alta calidad.<sub><sup>
  
 ---
 
