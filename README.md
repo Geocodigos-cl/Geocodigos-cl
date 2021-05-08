@@ -25,7 +25,7 @@ Uno de nuestros mayores deseos es que los Geo-Adictos no solo hagan *click* en p
 - Fomentar el uso de nuevas herramientas para ciencias y/o área privada.
 ---
 ## :raising_hand: *¿Quieres entender lo básico del mundo de la programación y crees que es muy dificil de entender?*
-- Entrá [aqui](https://teloexplicocongatitos.com/) y te lo explicamos con gatitos :kissing_cat:.
+Entrá [aqui](https://teloexplicocongatitos.com/) y te lo explicamos con gatitos :kissing_cat:.
 
 <sub><sup>*Agradecimientos a [Bel Rey](https://teloexplicocongatitos.com/about).<sub><sup>
 
@@ -36,10 +36,10 @@ Acá una lista de algunos lenguajes esenciales (en ingles) para aprender en data
 - [Google Earth Engine](https://courses.spatialthoughts.com/end-to-end-gee.html)
 ---
 ## 💞️ *¿Que esperamos como equipo?*
-- Para seguir creciendo, esperamos se nos unan más colaboradores en nuestra cruzada y poder seguir entregando informacion de calidad a las Geociancias de Sudamerica.
-
+Para seguir creciendo, esperamos se nos unan más colaboradores en nuestra cruzada y poder seguir entregando informacion de calidad a las Geociancias de Sudamerica.
+---
 ## 📫 *¿Como contactarnos?*
-- Puedes enviarnos email a geocodigos.cl@gmail.com o puedes entrar a nuestro Slack [Latincoding](https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw), el cual es gratis y donde estamos aportando con más informacion de forma activa y colaborativa.
+Puedes enviarnos email a geocodigos.cl@gmail.com o puedes entrar a nuestro Slack [Latincoding](https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw), el cual es gratis y donde estamos aportando con más informacion de forma activa y colaborativa.
 ---
 ## :trollface: *¿Que páginas te recomendamos?*
 - [Edinburgh Coding Club](https://ourcodingclub.github.io/)
