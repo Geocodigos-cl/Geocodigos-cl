@@ -5,9 +5,9 @@
 Esta iniciativa está compuesta por 3 Geo-Adictos de las ciencias y los scripts, con un gran deseo de aportar en Chile y Sudamerica.
 
 Los 3 Geo-Adictos que conforman esta iniciativa son:
- - [Karla Riquelme](https://www.linkedin.com/in/karlariquelmecarrillo/) - Ingeniera Geomensor (INACAP)
- - [Catalina Pérez](https://www.linkedin.com/in/catalina-perez-n/) - Geógrafa & Técnico en Geomática (Universidad Alberto Hurtado)
- - [Diego Alarcón](https://www.linkedin.com/in/diegoalarc%C3%B3nd%C3%ADaz/) - Ingeniero de ejecución en Geomensura (USACH)
+ - [Karla Riquelme](https://www.linkedin.com/in/karlariquelmecarrillo/) - [Ingeniera Geomensor (INACAP)](https://portales.inacap.cl/carreras/Area-Construccion/Ingenieria-en-Geomensura/index)
+ - [Catalina Pérez](https://www.linkedin.com/in/catalina-perez-n/) - [Geógrafa & Técnico en Geomática (Universidad Alberto Hurtado)](https://www.uahurtado.cl/carreras/geografia/)
+ - [Diego Alarcón](https://www.linkedin.com/in/diegoalarc%C3%B3nd%C3%ADaz/) - [Ingeniero de ejecución en Geomensura (USACH)](https://www.admision.usach.cl/Ingenier%C3%ADa-Ejecuci%C3%B3n-Geomensura)
 
 🌱 Nosotros, los creadores de Geocodigos, nos encuentramos en diferentes áreas de la Geociencias, interconectadas por el deseo de compartir y hacer crecer el conocimiento de las aplicaciones de estas en Sudamerica.
 
