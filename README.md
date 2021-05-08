@@ -3,9 +3,9 @@
 - 👋 Hola, nosotros somos @Geocodigos-cl. Estamos compuestos por 3 Geo-Adictos de las ciencias y los scripts.
 
 Los 3 Geo-Adictos que conforman esta iniciativa son:
-  [Karla Riquelme](https://www.linkedin.com/in/karlariquelmecarrillo/) - Ingeniera Geomensor (INACAP)
-  [Catalina Pérez](https://www.linkedin.com/in/catalina-perez-n/) - Geógrafa & Técnico en Geomática (Universidad Alberto Hurtado)
-  [Diego Alarcón](https://www.linkedin.com/in/diegoalarc%C3%B3nd%C3%ADaz/) - Ingeniero de ejecución en Geomensura (USACH)
+ - [Karla Riquelme](https://www.linkedin.com/in/karlariquelmecarrillo/) - Ingeniera Geomensor (INACAP)
+ - [Catalina Pérez](https://www.linkedin.com/in/catalina-perez-n/) - Geógrafa & Técnico en Geomática (Universidad Alberto Hurtado)
+ - [Diego Alarcón](https://www.linkedin.com/in/diegoalarc%C3%B3nd%C3%ADaz/) - Ingeniero de ejecución en Geomensura (USACH)
 
 - 🌱 Los creadores de Geocodigos se encuentran en diferentes areas de la Geociencias, interconectadas por el deseo de compartir y hacer crecer el conocimiento en Sudamerica.
 
