@@ -37,9 +37,9 @@ Entrá [aqui](https://teloexplicocongatitos.com/) y te lo explicamos con gatitos
 ## :fire: *¿Deseas comenzar a aprender programación y no sabes donde ni cual lenguaje?*
 Acá una lista de algunos lenguajes esenciales (en ingles) para aprender en data science, como lo son R, Python y Google Earth Engine:
 
-- [R](https://ourcodingclub.github.io/tutorials/intro-to-r/).
-- [Python](https://courses.spatialthoughts.com/python-foundation.html#what-next).
-- [Google Earth Engine](https://courses.spatialthoughts.com/end-to-end-gee.html).
+- [R](https://ourcodingclub.github.io/tutorials/intro-to-r/)
+- [Python](https://courses.spatialthoughts.com/python-foundation.html#what-next)
+- [Google Earth Engine](https://courses.spatialthoughts.com/end-to-end-gee.html)
 
 ---
 ## 💞️ *¿Que esperamos como equipo?*
@@ -50,7 +50,7 @@ Puedes enviarnos email a geocodigos.cl@gmail.com o puedes entrar a nuestro Slack
 
 ---
 
-## :trollface: *Páginas recomendadas:*
+## :trollface: *¿Que páginas te recomendamos?*
 
 - [Edinburgh Coding Club](https://ourcodingclub.github.io/)
 - [EAGLE Msc](http://eagle-science.org/)
@@ -65,7 +65,7 @@ Puedes enviarnos email a geocodigos.cl@gmail.com o puedes entrar a nuestro Slack
 
 ## :warning: *GNU General Public License v2.0 - Copyright (C)*
 
-#### Todos los scripts que publicaremos por nuestra cuenta, fueron desarrollados adoptando la licencia de GNU v2.0
+<sup>Todos los scripts que publicaremos por nuestra cuenta, fueron desarrollados adoptando la licencia de GNU v2.0<sup>
 
 <!---
 Geocodigos-cl/Geocodigos-cl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
