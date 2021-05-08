@@ -7,9 +7,11 @@ Los 3 Geo-Adictos que conforman esta iniciativa son:
   [Catalina Pérez](https://www.linkedin.com/in/catalina-perez-n/) - Geógrafa & Técnico en Geomática (Universidad Alberto Hurtado)
   [Diego Alarcón](https://www.linkedin.com/in/diegoalarc%C3%B3nd%C3%ADaz/) - Ingeniero de ejecución en Geomensura (USACH)
 
+- 🌱 Los creadores de Geocodigos se encuentran en diferentes areas de la Geociencias, interconectadas por el deseo de compartir y hacer crecer el conocimiento en Sudamerica.
+
 ---
 
-- 👀 Nuestros instereses principalmente son:
+## 👀 *Nuestros instereses principalmente son:*
   * Dar a conocer nuevas tecnologias.
   * Generar debate en el uso de scripts en Sudamerica.
   * Fomentar el uso de nuevas herramientas para ciencias y/o área privada.
@@ -24,19 +26,26 @@ Entrá [aqui](https://teloexplicocongatitos.com/) y te lo explicamos con gatitos
 ## *Para compartir*
 Acá una lista de algunos cursos (en ingles) para aprender R, Python y Google Earth Engine:
 
-- [R](https://geoscripting-wur.github.io/IntroToRaster/#Week_1__Lesson_4__Intro_To_Raster)
+- [R](https://ourcodingclub.github.io/tutorials/intro-to-r/)
 - [Python](https://courses.spatialthoughts.com/python-foundation.html#what-next)
 - [Google Earth Engine](https://courses.spatialthoughts.com/end-to-end-gee.html)
 
 ---
-
-- 🌱 Los creadores de Geocodigos se encuentran en diferentes areas de la Geociencias, interconectadas por el deseo de compartir y hacer crecer el conocimiento en Sudamerica.
-
-###
-
+### ¿Que esperamos como equipo?
 - 💞️ Para seguir creciendo, esperamos se nos unan más colaboradores en nuestra cruzada y poder seguir entregando informacion de calidad a las Geociancias de Sudamerica.
 
 - 📫 Como contactarnos: geocodigos.cl@gmail.com
+
+---
+
+### Páginas recomendadas:
+
+[Edinburgh Coding Club](https://ourcodingclub.github.io/)
+[EAGLE Msc](http://eagle-science.org/)
+[Spatial Thoughts](https://spatialthoughts.com/)
+
+
+---
 
 ### *GNU General Public License v2.0 - Copyright (C)*
 
