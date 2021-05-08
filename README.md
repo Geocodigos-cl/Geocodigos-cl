@@ -7,7 +7,7 @@ Los 3 Geo-Adictos que conforman esta iniciativa son:
  - [Catalina Pérez](https://www.linkedin.com/in/catalina-perez-n/) - Geógrafa & Técnico en Geomática (Universidad Alberto Hurtado)
  - [Diego Alarcón](https://www.linkedin.com/in/diegoalarc%C3%B3nd%C3%ADaz/) - Ingeniero de ejecución en Geomensura (USACH)
 
-- 🌱 Los creadores de Geocodigos se encuentran en diferentes areas de la Geociencias, interconectadas por el deseo de compartir y hacer crecer el conocimiento en Sudamerica.
+🌱 Los creadores de Geocodigos se encuentran en diferentes areas de la Geociencias, interconectadas por el deseo de compartir y hacer crecer el conocimiento en Sudamerica.
 
 ---
 
@@ -32,7 +32,7 @@ Acá una lista de algunos cursos (en ingles) para aprender R, Python y Google Ea
 
 ---
 ### ¿Que esperamos como equipo?
-- 💞️ Para seguir creciendo, esperamos se nos unan más colaboradores en nuestra cruzada y poder seguir entregando informacion de calidad a las Geociancias de Sudamerica.
+💞️ Para seguir creciendo, esperamos se nos unan más colaboradores en nuestra cruzada y poder seguir entregando informacion de calidad a las Geociancias de Sudamerica.
 
 ### 📫 *Como contactarnos:*
 Puedes enviarnos email a geocodigos.cl@gmail.com o puedes entrar a nuestro Slack [Latincoding](https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw), el cual es gratis y donde estamos aportando con más informacion de forma activa y colaborativa.
@@ -44,8 +44,7 @@ Puedes enviarnos email a geocodigos.cl@gmail.com o puedes entrar a nuestro Slack
 [Edinburgh Coding Club](https://ourcodingclub.github.io/)
 [EAGLE Msc](http://eagle-science.org/)
 [Spatial Thoughts](https://spatialthoughts.com/)
-
-
+[Unider Construction]
 ---
 
 ### *GNU General Public License v2.0 - Copyright (C)*
