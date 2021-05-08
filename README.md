@@ -1,6 +1,8 @@
 # *Bienvenidos a Geocodigos.cl*
 ---
-- 👋 Hola, nosotros somos @Geocodigos-cl. Estamos compuestos por 3 Geo-Adictos de las ciencias y los scripts.
+## 👋 Hola, nosotros somos @Geocodigos-cl!!! 
+
+Esta iniciativa está compuesta por 3 Geo-Adictos de las ciencias y los scripts, con un gran deseo de aportar en Chile y Sudamerica.
 
 Los 3 Geo-Adictos que conforman esta iniciativa son:
  - [Karla Riquelme](https://www.linkedin.com/in/karlariquelmecarrillo/) - Ingeniera Geomensor (INACAP)
