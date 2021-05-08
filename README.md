@@ -37,6 +37,7 @@ Acá una lista de algunos lenguajes esenciales (en ingles) para aprender en data
 Para seguir creciendo, esperamos se nos unan más colaboradores en nuestra cruzada y poder seguir entregando informacion de calidad a las Geociancias de Sudamerica.
 
 ## 📫 *¿Como contactarnos?*
+
 Puedes enviarnos email a geocodigos.cl@gmail.com o puedes entrar a nuestro Slack [Latincoding](https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw), el cual es gratis y donde estamos aportando con más informacion de forma activa y colaborativa.
 ---
 ## :trollface: *¿Que páginas te recomendamos?*
