@@ -11,10 +11,10 @@ Los 3 Geo-Adictos que conforman esta iniciativa son:
 
 Uno de nuestros mayores deseos es que los Geo-Adictos no solo hagan *click* en programas, si no tambien, comiencen a escribir sus propios *Scripts* usando [software libre](https://es.wikipedia.org/wiki/Software_libre) como:
 - [QGis](https://qgis.org/de/site/).
-- [R](https://www.r-project.org/) y su visualizador [RStudio](https://www.rstudio.com/)
-- [LibreOffice](https://es.libreoffice.org/)
-- [Python](https://www.python.org/) y su visulizador mas famoso [Anaconda](https://www.anaconda.com/)
-- [Linux](https://es.wikipedia.org/wiki/GNU/Linux) y su sistema operativo (sabor) más famoso [Ubuntu](https://ubuntu.com/)
+- [R](https://www.r-project.org/) y su visualizador [RStudio](https://www.rstudio.com/).
+- [LibreOffice](https://es.libreoffice.org/) el cual es una alternativa a Office.
+- [Python](https://www.python.org/) y su visulizador mas famoso [Anaconda](https://www.anaconda.com/).
+- [Linux](https://es.wikipedia.org/wiki/GNU/Linux) y su sistema operativo (sabor) más famoso [Ubuntu](https://ubuntu.com/).
 
 <sub><sup>Estas son solo recomendaciones, lo que no implica que el software de pago no sea de muy alta calidad.<sub><sup>
 ---
@@ -34,9 +34,9 @@ Entrá [aqui](https://teloexplicocongatitos.com/) y te lo explicamos con gatitos
 ## :fire: *¿Deseas comenzar a aprender programación y no sabes donde ni cual lenguaje?*
 Acá una lista de algunos lenguajes esenciales (en ingles) para aprender en data science, como lo son R, Python y Google Earth Engine:
 
-- [R](https://ourcodingclub.github.io/tutorials/intro-to-r/)
-- [Python](https://courses.spatialthoughts.com/python-foundation.html#what-next)
-- [Google Earth Engine](https://courses.spatialthoughts.com/end-to-end-gee.html)
+- [R](https://ourcodingclub.github.io/tutorials/intro-to-r/).
+- [Python](https://courses.spatialthoughts.com/python-foundation.html#what-next).
+- [Google Earth Engine](https://courses.spatialthoughts.com/end-to-end-gee.html).
 
 ---
 ### 💞️ *¿Que esperamos como equipo?*
