@@ -19,9 +19,9 @@ Uno de nuestros mayores deseos es que los Geo-Adictos no solo hagan *click* en p
 <sub><sup><sub><sup>*Estas son solo recomendaciones, lo que no implica que el software de pago no sea de muy alta calidad.<sub><sup><sub><sup>
 ---
 ## 👀 *Nuestros instereses principalmente son:*
-  - Dar a conocer nuevas tecnologias.
-  - Generar debate en el uso de scripts en Sudamerica.
-  - Fomentar el uso de nuevas herramientas para ciencias y/o área privada.
+- Dar a conocer nuevas tecnologias.
+- Generar debate en el uso de scripts en Sudamerica.
+- Fomentar el uso de nuevas herramientas para ciencias y/o área privada.
 ---
 ## :raising_hand: *¿Quieres entender lo básico del mundo de la programación y crees que es muy dificil de entender?*
 Entrá [aqui](https://teloexplicocongatitos.com/) y te lo explicamos con gatitos :kissing_cat:.
@@ -38,7 +38,7 @@ Para seguir creciendo, esperamos se nos unan más colaboradores en nuestra cruza
 
 ## 📫 *¿Como contactarnos?*
 
-Puedes enviarnos email a geocodigos.cl@gmail.com o puedes entrar a nuestro Slack [Latincoding](https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw), el cual es gratis y donde estamos aportando con más informacion de forma activa y colaborativa.
+- Puedes enviarnos email a geocodigos.cl@gmail.com o puedes entrar a nuestro Slack [Latincoding](https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw), el cual es gratis y donde estamos aportando con más informacion de forma activa y colaborativa.
 ---
 ## :trollface: *¿Que páginas te recomendamos?*
 - [Edinburgh Coding Club](https://ourcodingclub.github.io/)
