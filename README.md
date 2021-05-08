@@ -55,6 +55,11 @@ Puedes enviarnos email a geocodigos.cl@gmail.com o puedes entrar a nuestro Slack
 - [Edinburgh Coding Club](https://ourcodingclub.github.io/)
 - [EAGLE Msc](http://eagle-science.org/)
 - [Spatial Thoughts](https://spatialthoughts.com/)
+- [Stackoverflow](https://stackoverflow.com/)
+- [Wageningen University & Research](https://geoscripting-wur.github.io/)
+- [Sci-hub](https://sci-hub.se/), porque la ciencia debe ser para todos!!
+- [R-bloggers](https://www.r-bloggers.com/)
+- [SNAP ESA](https://step.esa.int/main/download/snap-download/)
 - :construction:
 ---
 
