@@ -10,9 +10,9 @@ Los 3 Geo-Adictos que conforman esta iniciativa son:
 🌱 Nosotros, los creadores de Geocodigos, nos encuentramos en diferentes áreas de la Geociencias, interconectadas por el deseo de compartir y hacer crecer el conocimiento de las aplicaciones de estas en Sudamerica.
 
 Uno de nuestros mayores deseos es que los Geo-Adictos no solo hagan *click* en programas, si no tambien, comiencen a escribir sus propios *Scripts* usando [software libre](https://es.wikipedia.org/wiki/Software_libre) como:
-- [QGis](https://qgis.org/de/site/).
+- [QGis](https://qgis.org/de/site/), el cual es una alternativa a [ArcGis](https://www.arcgis.com/index.html).
 - [R](https://www.r-project.org/) y su visualizador [RStudio](https://www.rstudio.com/).
-- [LibreOffice](https://es.libreoffice.org/) el cual es una alternativa a Office.
+- [LibreOffice](https://es.libreoffice.org/), el cual es una alternativa a [Office](https://www.office.com/).
 - [Python](https://www.python.org/) y su visulizador mas famoso [Anaconda](https://www.anaconda.com/).
 - [Linux](https://es.wikipedia.org/wiki/GNU/Linux) y su sistema operativo (sabor) más famoso [Ubuntu](https://ubuntu.com/).
 
@@ -20,9 +20,10 @@ Uno de nuestros mayores deseos es que los Geo-Adictos no solo hagan *click* en p
 ---
 
 ## 👀 *Nuestros instereses principalmente son:*
-  * Dar a conocer nuevas tecnologias.
-  * Generar debate en el uso de scripts en Sudamerica.
-  * Fomentar el uso de nuevas herramientas para ciencias y/o área privada.
+
+  - Dar a conocer nuevas tecnologias.
+  - Generar debate en el uso de scripts en Sudamerica.
+  - Fomentar el uso de nuevas herramientas para ciencias y/o área privada.
 
 ---
 
@@ -39,15 +40,15 @@ Acá una lista de algunos lenguajes esenciales (en ingles) para aprender en data
 - [Google Earth Engine](https://courses.spatialthoughts.com/end-to-end-gee.html).
 
 ---
-### 💞️ *¿Que esperamos como equipo?*
+## 💞️ *¿Que esperamos como equipo?*
 Para seguir creciendo, esperamos se nos unan más colaboradores en nuestra cruzada y poder seguir entregando informacion de calidad a las Geociancias de Sudamerica.
 
-### 📫 *¿Como contactarnos?*
+## 📫 *¿Como contactarnos?*
 Puedes enviarnos email a geocodigos.cl@gmail.com o puedes entrar a nuestro Slack [Latincoding](https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw), el cual es gratis y donde estamos aportando con más informacion de forma activa y colaborativa.
 
 ---
 
-### :trollface: *Páginas recomendadas:*
+## :trollface: *Páginas recomendadas:*
 
 - [Edinburgh Coding Club](https://ourcodingclub.github.io/)
 - [EAGLE Msc](http://eagle-science.org/)
@@ -55,7 +56,7 @@ Puedes enviarnos email a geocodigos.cl@gmail.com o puedes entrar a nuestro Slack
 - :construction:
 ---
 
-### :warning: *GNU General Public License v2.0 - Copyright (C)*
+## :warning: *GNU General Public License v2.0 - Copyright (C)*
 
 #### Todos los scripts que publicaremos por nuestra cuenta, fueron desarrollados adoptando la licencia de GNU v2.0
 
