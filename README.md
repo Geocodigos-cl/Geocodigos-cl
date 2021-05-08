@@ -34,7 +34,8 @@ Acá una lista de algunos cursos (en ingles) para aprender R, Python y Google Ea
 ### ¿Que esperamos como equipo?
 - 💞️ Para seguir creciendo, esperamos se nos unan más colaboradores en nuestra cruzada y poder seguir entregando informacion de calidad a las Geociancias de Sudamerica.
 
-- 📫 Como contactarnos: geocodigos.cl@gmail.com
+### 📫 *Como contactarnos:*
+Puedes enviarnos email a geocodigos.cl@gmail.com o puedes entrar a nuestro Slack [Latincoding](https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw), el cual es gratis y donde estamos aportando con más informacion de forma activa y colaborativa.
 
 ---
 
