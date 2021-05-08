@@ -26,7 +26,8 @@ Uno de nuestros mayores deseos es que los Geo-Adictos no solo hagan *click* en p
 ---
 ## :raising_hand: *¿Quieres entender lo básico del mundo de la programación y crees que es muy dificil de entender?*
 - Entrá [aqui](https://teloexplicocongatitos.com/) y te lo explicamos con gatitos :kissing_cat:.
-<sub><sup>Agradecimientos a [Bel Rey](https://teloexplicocongatitos.com/about)<sub><sup>
+- 
+<sup>Agradecimientos a [Bel Rey](https://teloexplicocongatitos.com/about).<sub>
 
 ## :fire: *¿Deseas comenzar a aprender programación y no sabes donde ni cual lenguaje?*
 Acá una lista de algunos lenguajes esenciales (en ingles) para aprender en data science, como lo son R, Python y Google Earth Engine:
