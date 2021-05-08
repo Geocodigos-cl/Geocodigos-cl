@@ -21,7 +21,7 @@ Los 3 Geo-Adictos que conforman esta iniciativa son:
 ## *¿Quieres entender lo básico del mundo de la programación y crees que es muy dificil de entender?*
 Entrá [aqui](https://teloexplicocongatitos.com/) y te lo explicamos con gatitos.
 
-#### agradecimientos a [Bel Rey](https://teloexplicocongatitos.com/about)
+<sub><sup>Agradecimientos a [Bel Rey](https://teloexplicocongatitos.com/about)<sub><sup>
 
 ## *Para compartir*
 Acá una lista de algunos cursos (en ingles) para aprender R, Python y Google Earth Engine:
