@@ -41,10 +41,10 @@ Puedes enviarnos email a geocodigos.cl@gmail.com o puedes entrar a nuestro Slack
 
 ### Páginas recomendadas:
 
-[Edinburgh Coding Club](https://ourcodingclub.github.io/)
-[EAGLE Msc](http://eagle-science.org/)
-[Spatial Thoughts](https://spatialthoughts.com/)
-[Unider Construction]
+- [Edinburgh Coding Club](https://ourcodingclub.github.io/)
+- [EAGLE Msc](http://eagle-science.org/)
+- [Spatial Thoughts](https://spatialthoughts.com/)
+- [Unider Construction]
 ---
 
 ### *GNU General Public License v2.0 - Copyright (C)*
