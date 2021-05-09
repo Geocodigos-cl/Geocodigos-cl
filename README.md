@@ -36,7 +36,7 @@ Y muchas otras herramientas disponibles en interet.
 ---
 
 ## :raising_hand: *¿Quieres entender lo básico del mundo de la programación y crees que es muy dificil de entender?*
-Entrá [aqui](https://teloexplicocongatitos.com/) y te lo explicamos con gatitos :kissing_cat:.
+Entra [aquí](https://teloexplicocongatitos.com/) y te lo explicamos con gatitos :kissing_cat:.
 
 <sub><sup>*Agradecimientos a [Bel Rey](https://teloexplicocongatitos.com/about).<sub><sup>
 
@@ -63,7 +63,7 @@ De todas maneras en [Youtube](https://www.youtube.com/) existen muchos canales p
 
 Otra muy buena alternaitva gratis es [Duolingo](https://es.duolingo.com/). Por ejemplo dale una mirada al curso de inglés que ellos ofrecen [acá](https://es.duolingo.com/course/en/es/Aprender-ingl%C3%A9s).
 
-Si desea saber de otras opciones, te recomendamos mirar esta pafina web [nosoloidiomas](https://nosoloidiomas.com/mejores-cursos-ingles-online-gratuitos/) como referencia.
+Si desea saber de otras opciones, puedes mirar esta página web [nosoloidiomas](https://nosoloidiomas.com/mejores-cursos-ingles-online-gratuitos/) como referencia.
 
 Pero recuerda, existen muchas formas de aprender inglés gratis en internet, pero todas toman tiempo y dedicación. De todas formas, dentro de nuesto Slack [Latincoding](https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw) tambien tenemos un canal dedicado a este importante tema, unete y dale una miarada.
 
