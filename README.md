@@ -19,6 +19,15 @@ Uno de nuestros mayores deseos es que los Geo-Adictos no solo hagan *click* en p
 - [Python](https://www.python.org/) y su visulizador mas famoso [Anaconda](https://www.anaconda.com/).
 - [Linux](https://es.wikipedia.org/wiki/GNU/Linux) y su sistema operativo (sabor) más famoso [Ubuntu](https://ubuntu.com/).
 
+O aplicando la interconección de *Script* a programas de pagos, como por ejemplo:
+- [ArcPy](https://pro.arcgis.com/es/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm), herramienta de python en [ArcGis](https://www.arcgis.com/index.html).
+- [openpyxl](https://realpython.com/openpyxl-excel-spreadsheets-python/), herramienta para generar archivos [Excel](https://www.microsoft.com/es-es/microsoft-365/excel).
+- [pyautocad](https://www.supplychaindataanalytics.com/es/python-para-autocad/), herramieta para generar ediciones en [Autocad](https://latinoamerica.autodesk.com/products/autocad/overview?term=1-YEAR).
+
+Y muchas otras herramientas disponibles en interet.
+
+<sub><sup>Disclaimer<sub><sup>
+<sub><sup>*No todas las herramientas mostradas y/o comentadas serán discutidas en el GitHub y/o canal de Slack. Nosotros solo nos deseamos difundir y entregar información para el mundo de las Geociencias de la mejor forma posible, sin perjuicio de lo anterior deseamos poder generar contenido gratis y darnos a conocer a la comunidad de Geociencias de Chile y Sudamerica.<sub><sup>
 <sub><sup>*Estas son solo recomendaciones de acceso gratis, lo que no implica que el software de pago no sea de muy alta calidad.<sub><sup>
  
 ---
