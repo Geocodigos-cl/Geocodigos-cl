@@ -123,9 +123,9 @@ Pagina para simbolos de markdown: https://gist.github.com/rxaviers/7360908
 
 <sub><sup>__Disclaimer__<sub><sup>
  
- <sub><sup> - No todas las herramientas mostradas y/o comentadas serán discutidas en el GitHub y/o canal de Slack. Nosotros solo nos deseamos difundir y entregar información para el mundo de las Geociencias de la mejor forma posible, sin perjuicio de lo anterior deseamos poder generar contenido gratis y darnos a conocer a la comunidad de Geociencias de Chile y Sudamerica.<sub><sup>
+ <sub><sup> - No todas las herramientas mostradas y/o comentadas serán discutidas en el GitHub y/o canal de Slack. Nosotros solo deseamos difundir y entregar información gratuita (que se encuentra en internet) para el mundo de las Geociencias de la mejor forma posible, sin perjuicio de lo anterior deseamos poder generar contenido gratis y darnos a conocer a la comunidad de Geociencias de Chile y América del Sur.<sub><sup>
 
-<sub><sup> - En ningún caso apoyamos la piratería ni nada relacionado a esta. De lo anterior podemos decir que no estamos de acuerdo con SciHub y su forma de entregar ciencia de forma gratis para todos y solo la recomendamos como ejemplo.<sub><sup>
+<sub><sup> - En ningún caso apoyamos la piratería ni nada relacionado a esta. De lo anterior podemos decir que no estamos de acuerdo con [Sci-hub](https://sci-hub.se/) y su forma de acercar la ciencia, gratis para todos. Solo la recomendamos como ejemplo :wink:.<sub><sup>
 
 <sub><sup> - Estas son solo recomendaciones de acceso gratis, lo que no implica que el software de pago no sea de muy alta calidad.<sub><sup>
 
