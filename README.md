@@ -28,14 +28,14 @@ Y muchas otras herramientas disponibles en interet.
  
 ---
 
-## 👀 *¿Cuales son nuestros intereses?*
+## 👀 *¿Cuáles son nuestros intereses?*
 - Dar a conocer nuevas tecnologias para el área de las Geociencias.
 - Generar discusión y promoción en el uso de scripts en Chile y América del Sur.
 - Fomentar el uso de nuevas herramientas para ciencias y/o área privada entregando información por medio de [GitHub](https://github.com/) y/o [Slack](https://slack.com/intl/es-la/).
 
 ---
 
-## :raising_hand: *¿Quieres entender lo básico del mundo de la programación y crees que es muy dificil de entender?*
+## :raising_hand: *¿Quieres entender lo básico del mundo de la programación y crees que es muy difícil de entender?*
 Entra [aquí](https://teloexplicocongatitos.com/) y te lo explicamos con gatitos :kissing_cat:.
 
 <sub><sup>*Agradecimientos a [Bel Rey](https://teloexplicocongatitos.com/about).<sub><sup>
@@ -55,17 +55,18 @@ Para seguir creciendo, esperamos se nos unan más colaboradores en nuestra cruza
 
 ---
 
-## :hear_no_evil:&:speak_no_evil: ¿No sabes hablar Inglés o como comenzar?
+## :hear_no_evil::speak_no_evil: ¿No sabes hablar Inglés o como comenzar?
 Te recomendamos darle una miera a la página de [Pacho Ochoa](https://www.pacho8a.com/) y su canal de Youtube:
 [![](http://img.youtube.com/vi/Cq_9hh42PgE/0.jpg)](http://www.youtube.com/watch?v=Cq_9hh42PgE "Lección 1 - Pronombres personales y verbo to be presente afirmativo")
 
-De todas maneras en [Youtube](https://www.youtube.com/) existen muchos canales para aprender inglés de forma gratuita y didactica.
+De todas maneras en [Youtube](https://www.youtube.com/) existen muchos canales para aprender inglés de forma gratuita y didáctica.
 
 Otra muy buena alternaitva gratis es [Duolingo](https://es.duolingo.com/). Por ejemplo dale una mirada al curso de inglés que ellos ofrecen [acá](https://es.duolingo.com/course/en/es/Aprender-ingl%C3%A9s).
 
 Si desea saber de otras opciones, puedes mirar esta página web [nosoloidiomas](https://nosoloidiomas.com/mejores-cursos-ingles-online-gratuitos/) como referencia.
 
-Pero recuerda, existen muchas formas de aprender inglés gratis en internet, pero todas toman tiempo y dedicación. De todas formas, dentro de nuesto Slack [Latincoding](https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw) tambien tenemos un canal dedicado a este importante tema, unete y dale una mirada.
+Pero recuerda, existen muchas formas de aprender inglés gratis en internet, pero todas toman tiempo y dedicación. 
+De todas formas, dentro de nuesto Slack [Latincoding](https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw) tambien tenemos un canal dedicado a este importante tema, unete y dale una mirada.
 
 ---
 
@@ -77,23 +78,23 @@ Puedes enviarnos un email a geocodigos.cl@gmail.com o puedes entrar a nuestro Sl
 ## :trollface: *¿Que páginas te recomendamos?*
 
 Club's de coding:
-- [Edinburgh Coding Club](https://ourcodingclub.github.io/)
-- [GeoLatinas](https://geolatinas.weebly.com/)
-- [Spatial Thoughts](https://spatialthoughts.com/)
 - [Wageningen University & Research](https://geoscripting-wur.github.io/)
+- [Edinburgh Coding Club](https://ourcodingclub.github.io/)
+- [Spatial Thoughts](https://spatialthoughts.com/)
+- [GeoLatinas](https://geolatinas.weebly.com/)
 - :construction: Seguimos en construcción :construction:
 
 Busqueda de informacion academica:
-- [Researchgate](https://www.researchgate.net/)
 - [Scholar google](https://scholar.google.com/)
+- [Researchgate](https://www.researchgate.net/)
 - [Sci-hub](https://sci-hub.se/), porque la ciencia debe ser para todos!!
 - :construction: Seguimos en construcción :construction:
 
 Aprendiendo coding:
 - [council.cl/cursos/python-de-cero-a-experto](https://council.cl/cursos/python-de-cero-a-experto/)
-- [udemy](https://www.udemy.com/)
-- [R-bloggers](https://www.r-bloggers.com/)
 - [mineduc.cl/lenguajesdigitales/phyton.html](https://sitios.mineduc.cl/lenguajesdigitales/phyton.html)
+- [R-bloggers](https://www.r-bloggers.com/)
+- [Udemy](https://www.udemy.com/)
 - :construction: Seguimos en construcción :construction:
 
 Otras webs importantes:
