@@ -72,23 +72,38 @@ Puedes enviarnos email a geocodigos.cl@gmail.com o puedes entrar a nuestro Slack
 ---
 
 ## :trollface: *¿Que páginas te recomendamos?*
+
+Club's de coding:
 - [Edinburgh Coding Club](https://ourcodingclub.github.io/)
 - [GeoLatinas](https://geolatinas.weebly.com/)
-- [EAGLE Msc](http://eagle-science.org/)
-- [cartografo.cl](https://cartografo.cl/)
-- [mineduc.cl/lenguajesdigitales/phyton.html](https://sitios.mineduc.cl/lenguajesdigitales/phyton.html)
 - [Spatial Thoughts](https://spatialthoughts.com/)
-- [Stackoverflow](https://stackoverflow.com/)
 - [Wageningen University & Research](https://geoscripting-wur.github.io/)
-- [council.cl/cursos/python-de-cero-a-experto](https://council.cl/cursos/python-de-cero-a-experto/)
+- :construction: Seguimos en construcción :construction:
+
+Busqueda de informacion academica:
+- [Researchgate](https://www.researchgate.net/)
+- [Scholar google](https://scholar.google.com/)
 - [Sci-hub](https://sci-hub.se/), porque la ciencia debe ser para todos!!
+- :construction: Seguimos en construcción :construction:
+
+Aprendiendo coding:
+- [council.cl/cursos/python-de-cero-a-experto](https://council.cl/cursos/python-de-cero-a-experto/)
 - [udemy](https://www.udemy.com/)
-- [animove](https://animove.org/)
 - [R-bloggers](https://www.r-bloggers.com/)
+- [mineduc.cl/lenguajesdigitales/phyton.html](https://sitios.mineduc.cl/lenguajesdigitales/phyton.html)
+- :construction: Seguimos en construcción :construction:
+
+Otras webs importantes:
+- [cartografo.cl](https://cartografo.cl/)
+- [EAGLE Msc](http://eagle-science.org/)
+- [Stackoverflow](https://stackoverflow.com/)
+- [AniMove](https://animove.org/)
 - [cartografia.cl](http://sitio.cartografia.cl/)
 - [pythonchile.cl](https://pythonchile.cl/)
 - [SNAP ESA](https://step.esa.int/main/download/snap-download/)
 - :construction: Seguimos en construcción :construction:
+
+Esperamos sus recomendaciones por email o en el Slack [Latincoding](https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw) para así crear recomendaciones más completas.
 
 ---
 
@@ -105,7 +120,9 @@ Pagina para simbolos de markdown: https://gist.github.com/rxaviers/7360908
 <sub><sup>__Disclaimer__<sub><sup>
  
  <sub><sup> - No todas las herramientas mostradas y/o comentadas serán discutidas en el GitHub y/o canal de Slack. Nosotros solo nos deseamos difundir y entregar información para el mundo de las Geociencias de la mejor forma posible, sin perjuicio de lo anterior deseamos poder generar contenido gratis y darnos a conocer a la comunidad de Geociencias de Chile y Sudamerica.<sub><sup>
- 
+
+<sub><sup> - En ningún caso apoyamos la piratería ni nada relacionado a esta. De lo anterior podemos decir que no estamos de acuerdo con SciHub y su forma de entregar ciencia de forma gratis para todos y solo la recomendamos como ejemplo.<sub><sup>
+
 <sub><sup> - Estas son solo recomendaciones de acceso gratis, lo que no implica que el software de pago no sea de muy alta calidad.<sub><sup>
 
 ---
