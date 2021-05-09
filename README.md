@@ -40,6 +40,8 @@ Entrá [aqui](https://teloexplicocongatitos.com/) y te lo explicamos con gatitos
 
 <sub><sup>*Agradecimientos a [Bel Rey](https://teloexplicocongatitos.com/about).<sub><sup>
 
+---
+
 ## :fire: *¿Deseas comenzar a aprender programación y no sabes donde ni cual lenguaje?*
 Acá una lista de algunos lenguajes esenciales (en ingles) para aprender en data science, como lo son R, Python y Google Earth Engine:
 - [R](https://ourcodingclub.github.io/tutorials/intro-to-r/)
