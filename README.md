@@ -59,7 +59,7 @@ Para seguir creciendo, esperamos se nos unan más colaboradores en nuestra cruza
 Te recomendamos darle una miera a la página de [Pacho Ochoa](https://www.pacho8a.com/) y su canal de Youtube:
 [![](http://img.youtube.com/vi/Cq_9hh42PgE/0.jpg)](http://www.youtube.com/watch?v=Cq_9hh42PgE "Lección 1 - Pronombres personales y verbo to be presente afirmativo")
 
-De todas maneras en [Youtube](https://www.youtube.com/) posee muchos canales para aprender inglés.
+De todas maneras en [Youtube](https://www.youtube.com/) existen muchos canales para aprender inglés de forma gratuita y didactica.
 
 Otra muy buena alternaitva gratis es [Duolingo](https://es.duolingo.com/).
 Existen muchas formas de aprender inglés gratis, pero todas toman tiempo y dedicación. De todas formas, dentro de nuesto Slack [Latincoding](https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw) tambien tenemos un canal dedicado a este importante tema, unete y dale una miarada.
