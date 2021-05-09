@@ -1,16 +1,16 @@
-# *Bienvenidos a Geocodigos.cl*
+# *Bienvenidos a Geocódigos-cl*
 
 ---
 
-## 👋 Hola, nosotros somos @Geocodigos-cl!!! 
-Esta iniciativa está compuesta por 3 Geo-Adictos de las ciencias y los scripts, con un gran deseo de aportar en Chile y Sudamerica.
+## 👋 Hola, nosotros somos @Geocódigos-cl!!! 
+Esta iniciativa está compuesta por 3 Geo-Adictos de las ciencias y los scripts, con un gran deseo de aportar en Chile y América del Sur.
 
 Quienes conforman esta iniciativa:
  - [Karla Riquelme](https://www.linkedin.com/in/karlariquelmecarrillo/) - [Ingeniera Geomensor (INACAP)](https://portales.inacap.cl/carreras/Area-Construccion/Ingenieria-en-Geomensura/index)
  - [Catalina Pérez](https://www.linkedin.com/in/catalina-perez-n/) - [Geógrafa & Técnico en Geomática (Universidad Alberto Hurtado)](https://www.uahurtado.cl/carreras/geografia/)
  - [Diego Alarcón](https://www.linkedin.com/in/diegoalarc%C3%B3nd%C3%ADaz/) - [Ingeniero de ejecución en Geomensura (USACH)](https://www.admision.usach.cl/Ingenier%C3%ADa-Ejecuci%C3%B3n-Geomensura)
 
-🌱 Nosotros, los creadores de Geocodigos, nos encontramos en diferentes áreas de la Geociencias, interconectadas por el deseo de compartir y hacer crecer el conocimiento de las aplicaciones de estas en Sudamerica.
+🌱 Nosotros, los creadores de Geocódigos, nos encontramos en diferentes áreas de las Geociencias, interconectados por el deseo de compartir y hacer crecer el conocimiento de sus aplicaciones en América del Sur.
 
 Uno de nuestros mayores deseos es que los Geo-Adictos no solo hagan *click* en programas, si no tambien, comiencen a escribir sus propios *Scripts* usando [Software libre](https://es.wikipedia.org/wiki/Software_libre) como:
 - [QGis](https://qgis.org/de/site/), el cual es una alternativa a [ArcGis](https://www.arcgis.com/index.html).
@@ -30,7 +30,7 @@ Y muchas otras herramientas disponibles en interet.
 
 ## 👀 *¿Cuales son nuestros intereses?*
 - Dar a conocer nuevas tecnologias para el área de las Geociencias.
-- Generar discusión y promoción en el uso de scripts en Chile y Sudamerica.
+- Generar discusión y promoción en el uso de scripts en Chile y América del Sur.
 - Fomentar el uso de nuevas herramientas para ciencias y/o área privada entregando información por medio de [GitHub](https://github.com/) y/o [Slack](https://slack.com/intl/es-la/).
 
 ---
@@ -43,7 +43,7 @@ Entra [aquí](https://teloexplicocongatitos.com/) y te lo explicamos con gatitos
 ---
 
 ## :fire: *¿Deseas comenzar a aprender programación y no sabes donde ni cual lenguaje?*
-Acá una lista de algunos lenguajes esenciales (en ingles) para aprender en data science, como lo son R, Python y Google Earth Engine:
+Aquí te dejamos una pequeña lista de algunos lenguajes esenciales (en inglés) para aprender en ciencia de datos, como R, Python y Google Earth Engine:
 - [R](https://ourcodingclub.github.io/tutorials/intro-to-r/)
 - [Python](https://courses.spatialthoughts.com/python-foundation.html#what-next)
 - [Google Earth Engine](https://courses.spatialthoughts.com/end-to-end-gee.html)
@@ -65,12 +65,12 @@ Otra muy buena alternaitva gratis es [Duolingo](https://es.duolingo.com/). Por e
 
 Si desea saber de otras opciones, puedes mirar esta página web [nosoloidiomas](https://nosoloidiomas.com/mejores-cursos-ingles-online-gratuitos/) como referencia.
 
-Pero recuerda, existen muchas formas de aprender inglés gratis en internet, pero todas toman tiempo y dedicación. De todas formas, dentro de nuesto Slack [Latincoding](https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw) tambien tenemos un canal dedicado a este importante tema, unete y dale una miarada.
+Pero recuerda, existen muchas formas de aprender inglés gratis en internet, pero todas toman tiempo y dedicación. De todas formas, dentro de nuesto Slack [Latincoding](https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw) tambien tenemos un canal dedicado a este importante tema, unete y dale una mirada.
 
 ---
 
 ## 📫 *¿Como contactarnos?*
-Puedes enviarnos email a geocodigos.cl@gmail.com o puedes entrar a nuestro Slack [Latincoding](https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw), el cual es gratis y donde estamos aportando con más informacion de forma activa y colaborativa.
+Puedes enviarnos un email a geocodigos.cl@gmail.com o puedes entrar a nuestro Slack [Latincoding](https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw), el cual es gratis y donde estamos aportando con más informacion de forma activa y colaborativa.
 
 ---
 
