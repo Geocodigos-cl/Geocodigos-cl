@@ -51,6 +51,7 @@ Para seguir creciendo, esperamos se nos unan más colaboradores en nuestra cruza
 ## :hear_no_evil:&:speak_no_evil: ¿No sabes hablar Inglés o como comenzar?
 Te recomendamos darle una miera a la página de [Pacho Ochoa](https://www.pacho8a.com/) y su canal de Youtube:
 [![](http://img.youtube.com/vi/Cq_9hh42PgE/0.jpg)](http://www.youtube.com/watch?v=Cq_9hh42PgE "Lección 1 - Pronombres personales y verbo to be presente afirmativo")
+
 De todas maneras en [Youtube](https://www.youtube.com/) posee muchos canales para aprender inglés.
 
 Otra muy buena alternaitva gratis es [Duolingo](https://es.duolingo.com/).
