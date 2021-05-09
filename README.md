@@ -5,12 +5,12 @@
 ## 👋 Hola, nosotros somos @Geocodigos-cl!!! 
 Esta iniciativa está compuesta por 3 Geo-Adictos de las ciencias y los scripts, con un gran deseo de aportar en Chile y Sudamerica.
 
-Los 3 Geo-Adictos que conforman esta iniciativa son:
+Quienes conforman esta iniciativa:
  - [Karla Riquelme](https://www.linkedin.com/in/karlariquelmecarrillo/) - [Ingeniera Geomensor (INACAP)](https://portales.inacap.cl/carreras/Area-Construccion/Ingenieria-en-Geomensura/index)
  - [Catalina Pérez](https://www.linkedin.com/in/catalina-perez-n/) - [Geógrafa & Técnico en Geomática (Universidad Alberto Hurtado)](https://www.uahurtado.cl/carreras/geografia/)
  - [Diego Alarcón](https://www.linkedin.com/in/diegoalarc%C3%B3nd%C3%ADaz/) - [Ingeniero de ejecución en Geomensura (USACH)](https://www.admision.usach.cl/Ingenier%C3%ADa-Ejecuci%C3%B3n-Geomensura)
 
-🌱 Nosotros, los creadores de Geocodigos, nos encuentramos en diferentes áreas de la Geociencias, interconectadas por el deseo de compartir y hacer crecer el conocimiento de las aplicaciones de estas en Sudamerica.
+🌱 Nosotros, los creadores de Geocodigos, nos encontramos en diferentes áreas de la Geociencias, interconectadas por el deseo de compartir y hacer crecer el conocimiento de las aplicaciones de estas en Sudamerica.
 
 Uno de nuestros mayores deseos es que los Geo-Adictos no solo hagan *click* en programas, si no tambien, comiencen a escribir sus propios *Scripts* usando [software libre](https://es.wikipedia.org/wiki/Software_libre) como:
 - [QGis](https://qgis.org/de/site/), el cual es una alternativa a [ArcGis](https://www.arcgis.com/index.html).
@@ -19,14 +19,14 @@ Uno de nuestros mayores deseos es que los Geo-Adictos no solo hagan *click* en p
 - [Python](https://www.python.org/) y su visulizador mas famoso [Anaconda](https://www.anaconda.com/).
 - [Linux](https://es.wikipedia.org/wiki/GNU/Linux) y su sistema operativo (sabor) más famoso [Ubuntu](https://ubuntu.com/).
 
-<sub><sup>*Estas son solo recomendaciones, lo que no implica que el software de pago no sea de muy alta calidad.<sub><sup>
+<sub><sup>*Estas son solo recomendaciones de acceso gratis, lo que no implica que el software de pago no sea de muy alta calidad.<sub><sup>
  
 ---
 
-## 👀 *Nuestros instereses principalmente son:*
-- Dar a conocer nuevas tecnologias.
-- Generar debate en el uso de scripts en Chile y Sudamerica.
-- Fomentar el uso de nuevas herramientas para ciencias y/o área privada.
+## 👀 *¿Cuales son nuestros intereses?*
+- Dar a conocer nuevas tecnologias para el área de las Geociencias.
+- Generar discusión y promoción en el uso de scripts en Chile y Sudamerica.
+- Fomentar el uso de nuevas herramientas para ciencias y/o área privada entregando información por medio de [GitHub](https://github.com/) y/o [Slack](https://slack.com/intl/es-la/).
 
 ---
 
