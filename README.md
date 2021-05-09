@@ -25,14 +25,6 @@ O aplicando la interconección de *Script* a programas de pagos, como por ejempl
 - [pyautocad](https://www.supplychaindataanalytics.com/es/python-para-autocad/), herramieta para generar ediciones en [Autocad](https://latinoamerica.autodesk.com/products/autocad/overview?term=1-YEAR).
 
 Y muchas otras herramientas disponibles en interet.
-
----
-
-<sub><sup>__Disclaimer__<sub><sup>
- 
- <sub><sup> - No todas las herramientas mostradas y/o comentadas serán discutidas en el GitHub y/o canal de Slack. Nosotros solo nos deseamos difundir y entregar información para el mundo de las Geociencias de la mejor forma posible, sin perjuicio de lo anterior deseamos poder generar contenido gratis y darnos a conocer a la comunidad de Geociencias de Chile y Sudamerica.<sub><sup>
- 
-<sub><sup> - Estas son solo recomendaciones de acceso gratis, lo que no implica que el software de pago no sea de muy alta calidad.<sub><sup>
  
 ---
 
@@ -106,3 +98,12 @@ Geocodigos-cl/Geocodigos-cl is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 Pagina para simbolos de markdown: https://gist.github.com/rxaviers/7360908
 --->
+---
+
+<sub><sup>__Disclaimer__<sub><sup>
+ 
+ <sub><sup> - No todas las herramientas mostradas y/o comentadas serán discutidas en el GitHub y/o canal de Slack. Nosotros solo nos deseamos difundir y entregar información para el mundo de las Geociencias de la mejor forma posible, sin perjuicio de lo anterior deseamos poder generar contenido gratis y darnos a conocer a la comunidad de Geociencias de Chile y Sudamerica.<sub><sup>
+ 
+<sub><sup> - Estas son solo recomendaciones de acceso gratis, lo que no implica que el software de pago no sea de muy alta calidad.<sub><sup>
+
+---
