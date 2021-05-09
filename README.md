@@ -55,6 +55,7 @@ Te recomendamos darle una miera a la página de [Pacho Ochoa](https://www.pacho8
 De todas maneras en [Youtube](https://www.youtube.com/) posee muchos canales para aprender inglés.
 
 Otra muy buena alternaitva gratis es [Duolingo](https://es.duolingo.com/).
+Existen muchas formas de aprender inglés gratis, pero todas toman tiempo y dedicación. De todas formas, dentro de nuesto Slack [Latincoding](https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw) tambien tenemos un canal dedicado a este importante tema, unete y dale una miarada.
 
 ---
 
