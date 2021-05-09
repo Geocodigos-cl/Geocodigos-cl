@@ -21,8 +21,8 @@ Uno de nuestros mayores deseos es que los Geo-Adictos no solo hagan *click* en p
 
 O aplicando la interconección de *Script* a [Software propietario](https://es.wikipedia.org/wiki/Software_propietario#:~:text=El%20software%20propietario%E2%80%8B%20o,lectura%20por%20parte%20de%20terceros.), como por ejemplo:
 - [ArcPy](https://pro.arcgis.com/es/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm), herramienta de python en [ArcGis](https://www.arcgis.com/index.html).
-- [openpyxl](https://realpython.com/openpyxl-excel-spreadsheets-python/), herramienta para generar archivos [Excel](https://www.microsoft.com/es-es/microsoft-365/excel).
-- [pyautocad](https://www.supplychaindataanalytics.com/es/python-para-autocad/), herramieta para generar ediciones en [Autocad](https://latinoamerica.autodesk.com/products/autocad/overview?term=1-YEAR).
+- [openpyxl](https://realpython.com/openpyxl-excel-spreadsheets-python/), herramienta de python para generar archivos [Excel](https://www.microsoft.com/es-es/microsoft-365/excel).
+- [pyautocad](https://www.supplychaindataanalytics.com/es/python-para-autocad/), herramienta de python para generar ediciones en [Autocad](https://latinoamerica.autodesk.com/products/autocad/overview?term=1-YEAR).
 
 Y muchas otras herramientas disponibles en interet.
  
