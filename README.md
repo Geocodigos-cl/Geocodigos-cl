@@ -29,7 +29,9 @@ Y muchas otras herramientas disponibles en interet.
 ---
 
 <sub><sup>__Disclaimer__<sub><sup>
+ 
  <sub><sup> - No todas las herramientas mostradas y/o comentadas serán discutidas en el GitHub y/o canal de Slack. Nosotros solo nos deseamos difundir y entregar información para el mundo de las Geociencias de la mejor forma posible, sin perjuicio de lo anterior deseamos poder generar contenido gratis y darnos a conocer a la comunidad de Geociencias de Chile y Sudamerica.<sub><sup>
+ 
 <sub><sup> - Estas son solo recomendaciones de acceso gratis, lo que no implica que el software de pago no sea de muy alta calidad.<sub><sup>
  
 ---
