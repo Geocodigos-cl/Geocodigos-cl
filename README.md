@@ -25,7 +25,7 @@ Uno de nuestros mayores deseos es que los Geo-Adictos no solo hagan *click* en p
 
 ## 👀 *Nuestros instereses principalmente son:*
 - Dar a conocer nuevas tecnologias.
-- Generar debate en el uso de scripts en Sudamerica.
+- Generar debate en el uso de scripts en Chile y Sudamerica.
 - Fomentar el uso de nuevas herramientas para ciencias y/o área privada.
 
 ---
@@ -48,6 +48,15 @@ Para seguir creciendo, esperamos se nos unan más colaboradores en nuestra cruza
 
 ---
 
+## :hear_no_evil:&:speak_no_evil: ¿No sabes hablar Inglés o como comenzar?
+Te recomendamos darle una miera a la página de [Pacho Ochoa](https://www.pacho8a.com/) y su canal de Youtube:
+[![](http://img.youtube.com/vi/Cq_9hh42PgE/0.jpg)](http://www.youtube.com/watch?v=Cq_9hh42PgE "Lección 1 - Pronombres personales y verbo to be presente afirmativo")
+De todas maneras en [Youtube](https://www.youtube.com/) posee muchos canales para aprender inglés.
+
+Otra muy buena alternaitva gratis es [Duolingo](https://es.duolingo.com/).
+
+---
+
 ## 📫 *¿Como contactarnos?*
 Puedes enviarnos email a geocodigos.cl@gmail.com o puedes entrar a nuestro Slack [Latincoding](https://join.slack.com/t/latincoding/shared_invite/zt-nnhgkb43-1ccg6DgMnyJU28zMHs~CJw), el cual es gratis y donde estamos aportando con más informacion de forma activa y colaborativa.
 
@@ -62,6 +71,7 @@ Puedes enviarnos email a geocodigos.cl@gmail.com o puedes entrar a nuestro Slack
 - [Spatial Thoughts](https://spatialthoughts.com/)
 - [Stackoverflow](https://stackoverflow.com/)
 - [Wageningen University & Research](https://geoscripting-wur.github.io/)
+- [council.cl/cursos/python-de-cero-a-experto](https://council.cl/cursos/python-de-cero-a-experto/)
 - [Sci-hub](https://sci-hub.se/), porque la ciencia debe ser para todos!!
 - [udemy](https://www.udemy.com/)
 - [animove](https://animove.org/)
