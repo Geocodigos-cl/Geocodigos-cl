@@ -55,14 +55,21 @@ Puedes enviarnos email a geocodigos.cl@gmail.com o puedes entrar a nuestro Slack
 
 ## :trollface: *¿Que páginas te recomendamos?*
 - [Edinburgh Coding Club](https://ourcodingclub.github.io/)
+- [GeoLatinas](https://geolatinas.weebly.com/)
 - [EAGLE Msc](http://eagle-science.org/)
+- [cartografo.cl](https://cartografo.cl/)
+- [mineduc.cl/lenguajesdigitales/phyton.html](https://sitios.mineduc.cl/lenguajesdigitales/phyton.html)
 - [Spatial Thoughts](https://spatialthoughts.com/)
 - [Stackoverflow](https://stackoverflow.com/)
 - [Wageningen University & Research](https://geoscripting-wur.github.io/)
 - [Sci-hub](https://sci-hub.se/), porque la ciencia debe ser para todos!!
+- [udemy](https://www.udemy.com/)
+- [animove](https://animove.org/)
 - [R-bloggers](https://www.r-bloggers.com/)
+- [cartografia.cl](http://sitio.cartografia.cl/)
+- [pythonchile.cl](https://pythonchile.cl/)
 - [SNAP ESA](https://step.esa.int/main/download/snap-download/)
-- :construction:
+- :construction: Seguimos en construcción :construction:
 
 ---
 
