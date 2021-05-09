@@ -12,14 +12,14 @@ Quienes conforman esta iniciativa:
 
 🌱 Nosotros, los creadores de Geocodigos, nos encontramos en diferentes áreas de la Geociencias, interconectadas por el deseo de compartir y hacer crecer el conocimiento de las aplicaciones de estas en Sudamerica.
 
-Uno de nuestros mayores deseos es que los Geo-Adictos no solo hagan *click* en programas, si no tambien, comiencen a escribir sus propios *Scripts* usando [software libre](https://es.wikipedia.org/wiki/Software_libre) como:
+Uno de nuestros mayores deseos es que los Geo-Adictos no solo hagan *click* en programas, si no tambien, comiencen a escribir sus propios *Scripts* usando [Software libre](https://es.wikipedia.org/wiki/Software_libre) como:
 - [QGis](https://qgis.org/de/site/), el cual es una alternativa a [ArcGis](https://www.arcgis.com/index.html).
 - [R](https://www.r-project.org/) y su visualizador [RStudio](https://www.rstudio.com/).
 - [LibreOffice](https://es.libreoffice.org/), el cual es una alternativa a [Office](https://www.office.com/).
 - [Python](https://www.python.org/) y su visulizador mas famoso [Anaconda](https://www.anaconda.com/).
 - [Linux](https://es.wikipedia.org/wiki/GNU/Linux) y su sistema operativo (sabor) más famoso [Ubuntu](https://ubuntu.com/).
 
-O aplicando la interconección de *Script* a programas de pagos, como por ejemplo:
+O aplicando la interconección de *Script* a [Software propietario](https://es.wikipedia.org/wiki/Software_propietario#:~:text=El%20software%20propietario%E2%80%8B%20o,lectura%20por%20parte%20de%20terceros.), como por ejemplo:
 - [ArcPy](https://pro.arcgis.com/es/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm), herramienta de python en [ArcGis](https://www.arcgis.com/index.html).
 - [openpyxl](https://realpython.com/openpyxl-excel-spreadsheets-python/), herramienta para generar archivos [Excel](https://www.microsoft.com/es-es/microsoft-365/excel).
 - [pyautocad](https://www.supplychaindataanalytics.com/es/python-para-autocad/), herramieta para generar ediciones en [Autocad](https://latinoamerica.autodesk.com/products/autocad/overview?term=1-YEAR).
