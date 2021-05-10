@@ -87,6 +87,7 @@ Club's de coding:
 Busqueda de informacion academica:
 - [Scholar google](https://scholar.google.com/)
 - [Researchgate](https://www.researchgate.net/)
+- [Web of Science](https://login.webofknowledge.com/error/Error?Error=IPError&PathInfo=%2F&RouterURL=https%3A%2F%2Fwww.webofknowledge.com%2F&Domain=.webofknowledge.com&Src=IP&Alias=WOK5)
 - [Sci-hub](https://sci-hub.se/), porque la ciencia debe ser para todos!!
 - :construction: Seguimos en construcción :construction:
 
