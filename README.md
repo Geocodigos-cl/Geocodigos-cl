@@ -31,7 +31,7 @@ Y muchas otras herramientas disponibles en interet.
 ## 👀 *¿Cuáles son nuestros intereses?*
 - Dar a conocer nuevas tecnologias para el área de las Geociencias.
 - Generar discusión y promoción en el uso de scripts en Chile y América del Sur.
-- Fomentar el uso de nuevas herramientas para ciencias y/o área privada entregando información por medio de [GitHub](https://github.com/) y/o [Slack](https://slack.com/intl/es-la/).
+- Fomentar el uso de nuevas herramientas para ciencias y/o área privada, entregando información por medio de este [GitHub](https://github.com/) y/o nuestro canal de [Slack](https://slack.com/intl/es-la/).
 
 ---
 
