@@ -81,6 +81,7 @@ Club's de coding:
 - [Wageningen University & Research](https://geoscripting-wur.github.io/)
 - [Edinburgh Coding Club](https://ourcodingclub.github.io/)
 - [Spatial Thoughts](https://spatialthoughts.com/)
+- [Statistics Globe](https://statisticsglobe.com/)
 - [GeoLatinas](https://geolatinas.weebly.com/)
 - :construction: Seguimos en construcción :construction:
 
